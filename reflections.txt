@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I’ve spent a lot of time working in HTML and figuring out a lot of this stuff on my own, but some new skills I’ve learned include using <figure> and <figcaption>. I’ve learned more about best practices in how to write code, and I’m LOVING ATOM.
+
+What’s been easy? The actual coding challenges. I’m loving how this helps cement what I’ve previously put together into a more cohesive framework. I’m using the MDN (which is much handier than w3schools - which has been a go-to of mine for a loooong time). I’m having a lot of fun.
+
+What’s been difficult? Staying away from the projects so I can get other stuff done!
+
+As for problem-solving strategies - as mentioned, the MDN has been invaluable. I’m sure I’ll be tapping into other resources as the exercises continue to get more challenging.
